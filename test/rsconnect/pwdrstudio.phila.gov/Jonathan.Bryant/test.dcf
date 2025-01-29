@@ -1,0 +1,12 @@
+name: test
+title: test
+username: Jonathan.Bryant
+account: Jonathan.Bryant
+server: pwdrstudio.phila.gov
+hostUrl: https://pwdrstudio.phila.gov/__api__
+appId: 446
+bundleId: 2758
+url: https://pwdrstudio.phila.gov/content/f043e4c2-2303-4a3c-8961-bb2a07af62d9/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
